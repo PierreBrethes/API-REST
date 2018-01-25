@@ -1,0 +1,21 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "math": "0.0.3",
+    "nodemon": "^1.14.11",
+    "request": "^2.83.0",
+    "sequelize": "^4.31.2",
+    "sqlite3": "^3.1.13"
+  }
+}
